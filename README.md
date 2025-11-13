@@ -16,3 +16,58 @@ A Junior Software Engineer with a strong, adaptable technical foundation and a s
 [![](https://visitcount.itsvg.in/api?id=mohamedammareid &icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Mohamed A. Eid
+**Junior Software Engineer | Bridging Code & Business**  
+CS50 · Business Information Systems student · Automation · AI Agents · Django · Python
+
+---
+
+## About Me
+I am a Junior Software Engineer with a strong, adaptable technical foundation and a focus on automation and AI agents. I have hands-on experience building full-stack applications and a solid background in IT infrastructure. Currently studying **Business Information Systems** to bridge the gap between code and business strategy. I enjoy working across the full project lifecycle and learning new technologies quickly to turn business ideas into working products.
+
+**Business + Code + AI = Game-Changing Impact**
+
+---
+
+## Tech Stack
+- Python (Django, Flask, FastAPI)  
+- JavaScript, React, Next.js  
+- HTML, CSS, Bootstrap  
+- Databases, SQL  
+- Docker, Git, GitHub  
+- Linux, Virtualization (Proxmox)  
+- Web scraping, API integration, LLM / AI Agents
+
+---
+
+## Selected Projects
+- **Fake Hotel Room Booking System** — Python console app simulating booking flow, validation, receipt generation.  
+  GitHub: `https://github.com/mohamedammareid/fakehotel`
+- **Todo List (Task Manager)** — Responsive web app with user auth, task CRUD and progress bar.  
+  (Linked to your repo in profile)
+- **The Cookie Corner** — Minimalist portfolio / landing page (HTML/CSS).
+
+---
+
+## Certifications & Education
+- CS50 — Introduction to Computer Science (Nov 2024)  
+- CS50P — Introduction to Programming with Python (Dec 2024)  
+- AI Python for Beginners — DeepLearning.AI (Nov 2025)  
+- CompTIA A+ (220-1101) — Apr 2025  
+- CompTIA Security+ (SY0-701) — Jun 2025  
+- BSc Business Information Systems — Advanced Academy (2024–2028)
+
+---
+
+## Contact & Socials
+- LinkedIn: https://linkedin.com/in/mohamedammareid  
+- X (Twitter): https://x.com/mohamedammareid  
+- Email: *(أضف بريدك إذا أردت)*
+
+---
+
+## How I work
+I focus on building maintainable, automated solutions that align technical decisions with business goals. I enjoy prototyping AI-driven workflows and integrating LLMs/agents where they add measurable value.
+
+---
