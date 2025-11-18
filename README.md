@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 I am a Junior Software Engineer with a strong, adaptable technical foundation and a focus on automation and AI agents. I have hands-on experience building full-stack applications and a solid background in IT infrastructure. Currently studying Business Information Systems to bridge the gap between code and business strategy. I enjoy working across the full project lifecycle and learning new technologies quickly to turn business ideas into working products.<br><br>Business + Code + AI = Game-Changing Impact
 
 
